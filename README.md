@@ -17,5 +17,8 @@
 คือ **1.file 2.บันทึกสำเนาใน github 3.ตั้งชื่อไฟล์ 4. comment 5.เสร็จ
 
 ![ วิธีเซฟไฟล์ google colab(ไฟล์.png)
-![ gg colab(gg colab.png)
-![ gg colab1(gg colab1.png)
+
+
+![ gg colab](gg colab.png)
+
+![ gg colab1](gg colab1.png)
