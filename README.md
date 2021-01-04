@@ -19,6 +19,6 @@
 ![ วิธีเซฟไฟล์ google colab(ไฟล์.png)
 
 
-![gg colab](gg colab.png)
+![gg colab](gg_colab.png)
 
-![gg colab1](gg colab1.png)
+![gg colab1](gg_colab1.png)
